@@ -1,2 +1,7 @@
 # MAC_Demo
-MAC相关的Demo整理
+
+- ststus
+  - https://github.com/aschuch/AXStatusItemPopup
+- calendar
+  - https://github.com/gyetvan-andras/Calendar-OSX
+
