@@ -9,5 +9,5 @@
 - 视图弹出方式
   - https://github.com/foundry/NSViewControllerPresentation
 - UI封装组件
-  _ https://github.com/HsiangHo/XUIKit
+  - https://github.com/HsiangHo/XUIKit
 
